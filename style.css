@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    height: 97vh;
+    padding: 0px 0px 0px 30%;
+    border: 2px solid yellowgreen;
+    font-size: 16px;
+}
+
+ul {
+    width: 30%;
+}
+
+ul>li {
+    list-style: none;
+    margin: 2px;
+    padding: 2px;
+    background-color: skyblue;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+
+ul li:hover {
+    background-color: cyan;
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
