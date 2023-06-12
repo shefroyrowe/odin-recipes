@@ -1,0 +1,41 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
+
+body {
+    background-color: rgb(220, 220, 220);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    border-radius: 10px;
+    display: block;
+    height: auto;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 5rem;
+}
+
+#buttons {
+    margin-top: 2rem;
+}
+
+a.btn {
+    text-decoration: none;
+    font-weight: bold;
+    padding: 4px;
+    background-color: beige;
+    color: #000000;
+    border: 1px solid hsl(0, 0%, 0%);
+    border-radius: 10px;
+}
+
+a.btn:hover {
+    background-color: pink;
+}
