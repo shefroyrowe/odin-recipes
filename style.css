@@ -23,15 +23,16 @@ h1 {
     font-weight: 500;
     font-size: 2.4rem;
     text-decoration: underline;
-    left: 39%;
+    top: 8%;
+    left: 35%;
 }
 
 ul {
     width: 30%;
     position: absolute;
     font-size: 1.2rem;
-    top: 20%;
-    left: 36.2%;
+    top: 30%;
+    left: 32%;
 }
 
 ul>li {
