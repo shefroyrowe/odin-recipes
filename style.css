@@ -1,25 +1,42 @@
 body {
+    font-family: 'Courier New', Courier, monospace;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-image: url("food-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: hsl(270, 87%, 85%);
+}
+
+.container {
     text-align: center;
-    height: 97vh;
-    padding: 0px 0px 0px 30%;
-    border: 2px solid yellowgreen;
+    height: 100vh;
+    width: 100vw;
     font-size: 16px;
 }
 
 h1 {
     position: absolute;
+    color: cornsilk;
+    font-weight: 500;
+    font-size: 2.4rem;
+    text-decoration: underline;
     left: 39%;
 }
 
 ul {
     width: 30%;
     position: absolute;
+    font-size: 1.2rem;
     top: 20%;
+    left: 36.2%;
 }
 
 ul>li {
     list-style: none;
-    margin: 2px;
+    margin-bottom: 10px;
     padding: 2px;
     background-color: skyblue;
     border: 1px solid gray;
