@@ -1,3 +1,3 @@
 # odin-recipes
-This will be a basic project build with html
-The intent is to demonstrate current html knowledge base
+  Basic website built with html and css
+  see live project @: https://shefroyrowe.github.io/odin-recipes/ 
